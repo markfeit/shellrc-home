@@ -1,0 +1,5 @@
+#
+# History Settings
+#
+
+unset HISTFILE
